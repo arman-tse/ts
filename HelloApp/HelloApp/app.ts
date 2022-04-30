@@ -27,5 +27,4 @@ tom.name = "Nursultan";
 tom.age = 36;
 
 let years: number = Person.calculateYears(tom.age);
-console.log(Person.retirementAge);
 console.log(years);
